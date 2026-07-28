@@ -1,4 +1,4 @@
-# Toplyne — Dev Contributor Crawler
+# signalx — Dev Contributor Crawler
 
 Scans GitHub for developer tool repos, maps top contributors, crawls publicly available emails, and scores them with gpt-4o-mini.
 
