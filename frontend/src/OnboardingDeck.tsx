@@ -147,7 +147,7 @@ const OnboardingDeck = () => {
                             <button
                                 type="button"
                                 onClick={() => {
-                                    window.location.hash = '#/scan'
+                                    window.location.hash = '#/login'
                                 }}
                                 className="mt-8 px-5 py-2.5 rounded-lg text-white text-sm font-semibold shadow-sm"
                                 style={{ background: 'linear-gradient(135deg, #2563EB, #8036CB)' }}
