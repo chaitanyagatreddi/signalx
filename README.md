@@ -1,5 +1,8 @@
 # signalx — Dev Contributor Crawler
 
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask 2.x](https://img.shields.io/badge/Flask-2.x-000000?style=flat-square&logo=flask)
+
 Scans GitHub for developer tool repos, maps top contributors, crawls publicly available emails, and scores them with gpt-4o-mini.
 
 ## Features
